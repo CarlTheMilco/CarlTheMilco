@@ -25,7 +25,7 @@ I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I play chess and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calton-cheruiyot-korir-7a7335190/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-calton-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calton-cheruiyot-korir-7a7335190/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
